@@ -1,0 +1,35 @@
+.container-md {
+  width: 800px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: rgba(244, 229, 184, 0.4196078431);
+  min-width: 800px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-00 {
+  margin-top: 0;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}
+
+.mb-15 {
+  margin-bottom: 15px;
+}
+
+.pr-0 {
+  padding-right: 0;
+}
+
+.pl-0 {
+  padding-left: 0;
+}
+
+.btn-light {
+  border: 1px solid black;
+}/*# sourceMappingURL=style.css.map */
